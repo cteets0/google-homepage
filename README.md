@@ -1,0 +1,1 @@
+This is the Google Homepage project in the Odin Project Foundations course. This is an intro to HTML/CSS.
